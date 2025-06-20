@@ -1,0 +1,65 @@
+body {
+    background-image: url('Luffy.webp');
+}
+
+.obsah {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 15%;
+    margin-right: 15%;
+    height: 100%;
+}
+
+#farbaobsah {
+    background-color: rgba(245, 245, 219, 0.5);
+}
+
+
+.nav {
+    background-color: rgba(245, 245, 219, 0.8);
+    overflow: hidden;
+    top: 0;
+    text-align: right;
+    position: sticky;
+}
+
+.nav a {
+    text-align: right;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    padding: 5%;   
+}
+
+.nav a:hover {
+    color: brown;
+}
+
+.nav a:active {
+    background-color: black;
+    color: brown;
+}
+
+#omne {
+    padding-top: 10px;
+    padding-left: 50px;
+    margin-top: 1vw;
+}
+
+p {
+    text-align: block;
+}
+#prace {
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#skladby{
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+img {
+    width: 15vw;
+}
